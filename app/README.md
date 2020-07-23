@@ -3,7 +3,7 @@
 <h1>ReachMe Social <br><i>ReachMe Inc.</i><br><br></h1>
 
 
-<a href="apk/reachme_social.apk"><img align="left" src="md-preview/md_button_download.png" width="380" height="100" /><a> <img align="right" src="md-preview/md_qrcode.png" width="130" />
+<a href="apk/reachme_social.apk?raw=true"><img align="left" src="md-preview/md_button_download.png" width="380" height="100" /><a> <img align="right" src="md-preview/md_qrcode.png" width="130" />
 
 
 <br><br><br>
